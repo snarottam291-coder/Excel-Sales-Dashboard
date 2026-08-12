@@ -130,7 +130,8 @@ Excel Sales Dashboard.xlsx
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Data Visualization
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/snarottam291-coder
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/narottamsingh291
+
 
