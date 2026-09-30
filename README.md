@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is an interactive **Sales Dashboard** built in **Microsoft Excel** to analyze business performance using Pivot Tables, Pivot Charts, Slicers, and KPIs.
+This project is an interactive ** Home Applainces Sales Dashboard** built in **Microsoft Excel** to analyze business performance using Pivot Tables, Pivot Charts, Slicers, and KPIs.
 
 The dashboard provides insights into sales, profit, product performance, regional performance, and salesperson contributions, helping users make data-driven decisions.
 
@@ -128,7 +128,7 @@ Excel Sales Dashboard.xlsx
 
 **Narottam Singh Rajawat**
 
-Aspiring Data Analyst | Excel | SQL | Power BI | Data Visualization
+Data Analyst | Excel | SQL | Power BI | Data Visualization
 
 GitHub: https://github.com/snarottam291-coder
 
